@@ -5,4 +5,4 @@ npm start
 # Portfolio
 
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/Dunkaroos91/Portfolio/blob/master/portfolioimage.PNG?raw=true)
