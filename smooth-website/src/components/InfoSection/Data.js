@@ -23,7 +23,7 @@ export const homeObjTwo = {
     lightTextDesc: false,
     topLine: 'What I am good at',
     headline: 'My Skills',
-    description: 'I focus primarily on JavaScript with React as well as Python, HTML, and CSS',
+    description: 'JavaScript, TypeScript, React.js, Next.js, SQL, Node.js',
     buttonLabel: 'Learn More',
     imgStart: true,
     img: require('../../images/computer2.svg').default,

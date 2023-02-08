@@ -41,7 +41,7 @@ function Navbar({ toggle }) {
                         <NavLinks to="discover" smooth={true} duration={500} spy={true} exact='true' offset={-80}>Skills</NavLinks>
                     </NavItem>
                     <NavItem>
-                        <NavLinks to="services" smooth={true} duration={500} spy={true} exact='true' offset={-80}>Projects</NavLinks>
+                        <NavLinks to="cards" smooth={true} duration={500} spy={true} exact='true' offset={-80}>Projects</NavLinks>
                     </NavItem>
                     <NavItem>
                         <NavLinks to="signup" smooth={true} duration={500} spy={true} exact='true' offset={-80}>Certifications</NavLinks>
